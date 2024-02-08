@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* I'm Caio Souza, a seasoned software developer specializing in web development. Currently, I hold the position of Senior Web Developer, boasting over 6 years of hands-on experience in the industry. Throughout my career, I've spearheaded a multitude of dynamic projects, leveraging cutting-edge technologies and methodologies to drive innovation and deliver exceptional results.
+*I'm Caio Souza, a seasoned software developer specializing in web development. Currently, I hold the position of Senior Web Developer, boasting over 6 years of hands-on experience in the industry. Throughout my career, I've spearheaded a multitude of dynamic projects, leveraging cutting-edge technologies and methodologies to drive innovation and deliver exceptional results.
 
 My expertise extends across a spectrum of domains, with notable proficiency in REST API development, Docker, and Kubernetes orchestration. I've adeptly designed, implemented, and optimized RESTful APIs to facilitate seamless communication between disparate systems, ensuring robust and scalable solutions. Additionally, my adeptness in containerization technologies like Docker and Kubernetes has empowered me to streamline deployment processes, enhance scalability, and fortify system resilience.
 
