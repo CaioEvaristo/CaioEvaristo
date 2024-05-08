@@ -1,4 +1,4 @@
-## Hello there :xD:
+## Hello there :xd:
 
 *Welcome to my Github Page, My name is Caio Evaristo and i'm software engineer*
 
