@@ -1,6 +1,6 @@
-## Hi there :v:
+## Hello there
 
-*Hello, Friends Welcome to my Github Page, *
+*Welcome to my Github Page, My name is Caio Evaristo and i'm software engineer*
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioEvaristo&theme=great-gatsby&hide_border=false"  width="400px" />
 
