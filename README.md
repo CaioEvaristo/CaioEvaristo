@@ -4,6 +4,8 @@
 
 *Here you will find my personal projects, more focused on back-end, and my experiments on programming languages and development concepts.*
 
+---
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioEvaristo&theme=great-gatsby&hide_border=false"  width="400px" />
 
 
