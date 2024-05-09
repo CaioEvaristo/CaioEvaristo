@@ -1,3 +1,5 @@
+![Caio Souza](https://github.com/CaioEvaristo/CaioEvaristo/img/logo.png?raw=true)
+
 ## Hello there :wave:
 
 *Welcome to my Github Page, My name is Caio Evaristo and i'm software engineer since 2017*
