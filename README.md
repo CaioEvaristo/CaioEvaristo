@@ -1,4 +1,4 @@
-![Caio Souza](https://github.com/CaioEvaristo/CaioEvaristo/blob/main/src/banner3.png?raw=true)
+![Caio Souza](https://github.com/CaioEvaristo/CaioEvaristo/blob/main/src/logo.png?raw=true)
 
 ## Hello there :wave:
 
