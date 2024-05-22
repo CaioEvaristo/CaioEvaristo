@@ -6,9 +6,7 @@
 *Here you will find my personal projects, more focused on back-end, and my experiments on programming languages and development concepts.*
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioEvaristo&theme=great-gatsby&hide_border=false"  width="400px" />
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=CaioEvaristo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioEvaristo&theme=great-gatsby&hide_border=false"  width="400px" />  ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=CaioEvaristo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Tech Stacks :computer:
