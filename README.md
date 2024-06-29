@@ -5,7 +5,6 @@
 
 *Here you will find my personal projects, more focused on back-end, and my experiments on programming languages and development concepts.*
 
-[Portifolio](https://whoami-eight.vercel.app/)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioEvaristo&theme=great-gatsby&hide_border=false"  width="400px" />
@@ -37,3 +36,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+
+
+[Portifolio](https://whoami-eight.vercel.app/)
