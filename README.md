@@ -1,5 +1,4 @@
 ## Hello there :wave:
-## Hello there <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/starwars/starwars-original.svg" width="30" height="30"> :wave:
 
 *Welcome to my Github Page, My name is Caio Evaristo and I'm software engineer since 2017*
 
