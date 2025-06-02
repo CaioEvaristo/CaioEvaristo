@@ -1,4 +1,4 @@
-## Hello there <img src="https://github.com/user-attachments/assets/ba681a4f-9b15-48c5-b853-93c4df459118" width="30" height="30">
+## Hello there <img src="https://github.com/user-attachments/assets/090d860c-e8a4-44f5-a892-b1289fb952eb" width="30" height="30">
 
 
 *Welcome to my Github Page, My name is Caio Evaristo and I'm software engineer since 2017*
