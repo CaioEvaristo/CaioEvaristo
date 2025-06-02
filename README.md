@@ -9,7 +9,7 @@
 ## About Me <img src="https://github.com/user-attachments/assets/ff35bb0b-1a4c-4e2d-898a-5c71d42ff12c" width="40" height="40">
 [![Personal Website](https://img.shields.io/badge/About_Me-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://whoami-eight.vercel.app/)
 
-## Tech Stacks :computer:
+## Tech Stacks <img src="https://github.com/user-attachments/assets/73a6cbf8-776f-4af7-a745-0585d1265dee" width="40" height="40">
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
