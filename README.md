@@ -1,4 +1,4 @@
-## Hello there :wave: ![image](https://github.com/user-attachments/assets/5bcd376e-b816-4613-aad1-9058d1a59064)
+## Hello there <img src="https://github.com/user-attachments/assets/ba681a4f-9b15-48c5-b853-93c4df459118" width="30" height="30">
 
 
 *Welcome to my Github Page, My name is Caio Evaristo and I'm software engineer since 2017*
