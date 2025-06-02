@@ -1,15 +1,10 @@
-
 ## Hello there :wave:
 
-*Welcome to my Github Page, My name is Caio Evaristo and i'm software engineer since 2017*
+*Welcome to my Github Page, My name is Caio Evaristo and I'm software engineer since 2017*
 
 *Here you will find my personal projects, more focused on back-end, and my experiments on programming languages and development concepts.*
 
-
-
-
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=CaioEvaristo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## Tech Stacks :computer:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,5 +31,5 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
-
-[Portifolio](https://whoami-eight.vercel.app/)
+## About Me :bust_in_silhouette:
+[![Personal Website](https://img.shields.io/badge/About_Me-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://whoami-eight.vercel.app/)
