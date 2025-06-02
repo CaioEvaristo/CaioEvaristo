@@ -8,7 +8,6 @@
 
 ## About Me :bust_in_silhouette:
 [![Personal Website](https://img.shields.io/badge/About_Me-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://whoami-eight.vercel.app/)
-[![Website](https://img.shields.io/badge/Animated_Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://whoami-eight.vercel.app/)
 
 ## Tech Stacks :computer:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
