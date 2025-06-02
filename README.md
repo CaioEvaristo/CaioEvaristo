@@ -1,5 +1,4 @@
-## Hello there <img src="https://github.com/user-attachments/assets/090d860c-e8a4-44f5-a892-b1289fb952eb" width="30" height="30">
-
+## Hello There <img src="https://github.com/user-attachments/assets/090d860c-e8a4-44f5-a892-b1289fb952eb" width="30" height="30">
 
 *Welcome to my Github Page, My name is Caio Evaristo and I'm software engineer since 2017*
 
@@ -7,7 +6,7 @@
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=CaioEvaristo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me :bust_in_silhouette:
+## About Me <img src="https://github.com/user-attachments/assets/861a56b6-d38a-4a62-ba7d-2ac61483120f" width="30" height="30">
 [![Personal Website](https://img.shields.io/badge/About_Me-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://whoami-eight.vercel.app/)
 
 ## Tech Stacks :computer:
