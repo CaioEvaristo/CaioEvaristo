@@ -25,7 +25,7 @@ Passionate about back-end development, programming languages, and exploring new 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=php&logoColor=white)
 
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
